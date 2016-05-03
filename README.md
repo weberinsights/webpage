@@ -1,5 +1,6 @@
 # webpage
-try to use github for website design and hosting <br/>
+Try to use github for website making and hosting <br/>
 Learning and Practising. <br/>
 Not intend to sell. <br/>
-No commercial purpose
+No commercial purpose <br/>
+Thank You
